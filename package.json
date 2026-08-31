@@ -19,7 +19,8 @@
   "homepage": "https://github.com/2110503-69CP/a4-Suk-Nsr#readme",
   "dependencies": {
     "dotenv": "^17.4.2",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongoose": "^9.9.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
